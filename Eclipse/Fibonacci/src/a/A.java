@@ -91,7 +91,7 @@ public class A extends JFrame {
 		lblValor.setBounds(125, 11, 46, 14);
 		contentPane.add(lblValor);
 		
-		JLabel lblCantidadDeRepeticiones = new JLabel("repeticiones");
+		JLabel lblCantidadDeRepeticiones = new JLabel("Repeticiones");
 		lblCantidadDeRepeticiones.setBounds(218, 12, 68, 23);
 		contentPane.add(lblCantidadDeRepeticiones);
 		
