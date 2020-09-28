@@ -97,7 +97,7 @@ public class A extends JFrame {
 		
 		txtV1 = new JTextField();
 		txtV1.setBounds(10, 46, 86, 20);
-		contentPane.add(txtV1);
+		contentPane.add(txtV1 );
 		txtV1.setColumns(10);
 		
 		txtV2 = new JTextField();
