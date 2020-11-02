@@ -23,7 +23,9 @@ public class Swimming extends JFrame {
 	private JPanel contentPane;
 	private JButton btnIniciar;
 
-	/**
+	/** 
+	
+	/** 
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
