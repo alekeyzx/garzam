@@ -16,7 +16,7 @@ class Hilos {
         {
             System.out.print(".");
                 try {
-					Thread.sleep(80);
+					Thread.sleep(80); // //
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
